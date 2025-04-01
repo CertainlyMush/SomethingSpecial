@@ -4,9 +4,11 @@ const messages = [
     "Let's give it a try, just think about it!",
     "We'll make a great match, honestly",
     "Pookie pleaseeee",
-    "If you say no, I'll be really sad :(",
+    "If u say no, I'll be really sad :(",
     "Oke fine, I'll stop...",
     "JK, WE'RE ENTWINED NOW!"
+    "I'LL NOT DISAPPOINT!"
+    "GIVE ME A CHANCE!!!"
 ];
 
 let messageIndex = 0;
