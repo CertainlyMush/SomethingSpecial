@@ -8,7 +8,7 @@ const messages = [
     "GIVE ME A CHANCE!!!",
     "I'll not disappoint",
     "WHY BBG SO HARD TO PULL!?",
-    "COME ON, SAY‘YES’",
+    "COME ON, SAY YES",
 ];
 
 let messageIndex = 0;
