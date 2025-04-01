@@ -5,9 +5,8 @@ const messages = [
     "We'll make a great match, honestly",
     "Pookie pleaseeee",
     "If u say no, I'll be really sad :(",
-    "Oke fine, I'll stop...",
-    "JK, WE'RE ENTWINED NOW!"
-    "GIVE ME A CHANCE!!!"
+    "GIVE ME A CHANCE!!!",
+    "I'll not disappoint",
 ];
 
 let messageIndex = 0;
