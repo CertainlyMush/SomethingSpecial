@@ -7,6 +7,8 @@ const messages = [
     "If u say no, I'll be really sad :(",
     "GIVE ME A CHANCE!!!",
     "I'll not disappoint",
+    "WHY BBG SO HARD TO PULL!?",
+    "COME ON, SAY‘YES’",
 ];
 
 let messageIndex = 0;
