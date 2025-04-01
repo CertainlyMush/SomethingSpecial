@@ -7,7 +7,6 @@ const messages = [
     "If u say no, I'll be really sad :(",
     "Oke fine, I'll stop...",
     "JK, WE'RE ENTWINED NOW!"
-    "I'LL NOT DISAPPOINT!"
     "GIVE ME A CHANCE!!!"
 ];
 
